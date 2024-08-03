@@ -6,8 +6,8 @@ import NavBar from './components/NavBar/NavBar'
 function App() {
   return (
     <div className="App">
-      <img src={bankLogo} alt="bankLogo"></img>
       <NavBar></NavBar>
+      <img src={bankLogo} alt="bankLogo"></img>
     </div>
   );
 }

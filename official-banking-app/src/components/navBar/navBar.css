@@ -2,3 +2,8 @@
 .btn {
     background-color: greenyellow;
 }
+
+.NavBar {
+    display: flex;
+    flex-direction: row;
+}
